@@ -15,6 +15,7 @@
 	<description>Practice real time data stream and Handling</description>
 	<modules>
 		<module>kafka-producer</module>
+		<module>kafka-consumer-database-push</module>
 	</modules>
 	<packaging>pom</packaging>
 	<properties>
